@@ -1,7 +1,8 @@
 # Robust fine-tuning
 
-"Adversarial robustness against multiple $l_p$-threat models at the price of one and how to quickly fine-tune robust models to another threat model"\
+"Adversarial robustness against multiple and single $l_p$-threat models via quick fine-tuning of robust classifiers"\
 *Francesco Croce, Matthias Hein*\
+ICML 2022\
 [https://arxiv.org/abs/2105.12508](https://arxiv.org/abs/2105.12508)
 
 We propose to *i)* use adversarial training wrt Linf and L1 (alternating the two threat models) to achieve robustness also to L2 and *ii)* fine-tune models robust in one
